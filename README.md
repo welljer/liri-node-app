@@ -41,7 +41,7 @@ node liri.js movie-this 'movie name here'
 
 default:
 
-![picture of default OMDB call request](https://github.com/welljer/liri-node-app/blob/master/media/spotifyDefault.JPG)
+![picture of default OMDB call request](https://github.com/welljer/liri-node-app/blob/master/media/omdbDefaut.JPG)
 
 with custom request:
 
