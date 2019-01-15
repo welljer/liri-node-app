@@ -1,0 +1,509 @@
+Invalid Instruction
+Invalid Instruction
+Invalid Instruction
+Invalid Instruction
+
+----
+
+Error occured: TypeError: Cannot read property 'items' of undefined
+
+----
+
+Error occured: TypeError: Cannot read property 'items' of undefined
+
+----
+
+Error occured: TypeError: Cannot read property 'items' of undefined
+
+----
+
+Error occured: TypeError: Cannot read property 'items' of undefined
+
+----
+
+Error occured: TypeError: Cannot read property 'items' of undefined
+
+----
+
+Error occured: TypeError: Cannot read property 'items' of undefined
+
+----
+
+Error occured: TypeError: Cannot read property 'items' of undefined
+
+----
+
+Artist: Logic
+Preview: null
+Song: 1-800-273-8255
+
+----
+
+Album: Everybody
+
+----
+
+Artist: At The Drive In
+Song: One Armed Scissor
+
+----
+
+Preview: null
+Album: Relationship Of Command
+
+----
+
+Artist: Ace of Base
+Song: The Sign
+Preview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=01823042e11c4096978bbe0e9bba84fc
+Album: The Sign (US Album) [Remastered]
+
+----
+
+
+---------------------------------------------------
+
+Title: Mr. Nobody
+IMDB Rating: 7.9
+Release Year: 2009
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: Mr. Nobody
+IMDB Rating: 7.9
+Release Year: 2009
+Country: Belgium, Germany, Canada, France, USA, UK
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Rotten Tomatoes Rating: 67%
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Language: English, Mohawk
+
+---------------------------------------------------
+
+
+----
+
+Name: iHeartRadio ALTer Ego 2019
+City: Los Angeles
+Date: 01/19/2019
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 02/22/2019
+Name: Toyota Center
+City: Houston
+Country: TX
+Country: United States
+
+----
+
+
+----
+
+Date: 02/24/2019
+Name: American Airlines Center
+City: Dallas
+Country: TX
+Country: United States
+
+----
+
+
+----
+
+Date: 02/26/2019
+Name: Talking Stick Resort Arena
+City: Phoenix
+Country: AZ
+Country: United States
+
+----
+
+
+----
+
+Date: 02/28/2019
+Name: Vivint Smart Home Arena
+City: Salt Lake City
+Country: UT
+Country: United States
+
+----
+
+
+----
+
+Date: 03/02/2019
+Name: Mandalay Bay Events Center
+City: Las Vegas
+Country: NV
+Country: United States
+
+----
+
+
+----
+
+Date: 03/05/2019
+Name: Valley View Casino Center
+City: San Diego
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/07/2019
+Name: Golden 1 Center
+City: Sacramento
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/09/2019
+Name: Oracle Arena
+City: Oakland
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/23/2019
+Name: Circuit Of the Americas
+City: Austin
+Country: TX
+Country: United States
+
+----
+
+
+----
+
+Date: 03/24/2019
+Name: BB&T Center
+City: Sunrise
+Country: FL
+Country: United States
+
+----
+
+
+----
+
+Date: 03/26/2019
+Name: State Farm Arena
+City: Atlanta
+Country: United States
+Country: GA
+
+----
+
+
+----
+
+Date: 03/28/2019
+Name: Scotiabank Arena
+City: Toronto
+Country: Canada
+
+----
+
+
+----
+
+Date: 03/30/2019
+Name: Bell Centre
+City: Montreal
+Country: Canada
+
+----
+
+
+----
+
+Date: 03/31/2019
+Name: Videotron Centre
+City: Ville De Québec
+Country: Canada
+
+----
+
+
+----
+
+Date: 04/02/2019
+Name: Capital One Arena
+City: Washington
+Country: DC
+Country: United States
+
+----
+
+
+----
+
+Date: 04/04/2019
+Name: Little Caesars Arena
+City: Detroit
+Country: MI
+Country: United States
+
+----
+
+
+----
+
+Date: 04/07/2019
+Name: Wells Fargo Center
+City: Philadelphia
+Country: PA
+Country: United States
+
+----
+
+
+----
+
+Date: 04/08/2019
+Name: Madison Square Garden
+City: New York
+Country: NY
+Country: United States
+
+----
+
+Date: 04/10/2019
+City: Boston
+
+----
+
+Name: TD Garden
+Country: United States
+Country: MA
+
+----
+
+
+----
+
+Date: 04/12/2019
+Name: United Center
+City: Chicago
+Country: IL
+Country: United States
+
+----
+
+
+----
+
+Date: 05/26/2019
+Name: Letiště Praha Letňany
+City: Praha
+Country: Czech Republic
+
+----
+
+
+----
+
+Date: 05/28/2019
+Name: Papp Laszlo Sports Arena
+City: Budapest
+Country: Hungary
+
+----
+
+
+----
+
+Date: 05/29/2019
+Name: Stadthalle Graz
+City: Graz
+Country: Austria
+
+----
+
+
+----
+
+Date: 06/01/2019
+Name: London Stadium U K
+City: London
+Country: United Kingdom
+
+----
+
+
+----
+
+Date: 06/05/2019
+Name: Ashton Gate
+City: Bristol
+Country: United Kingdom
+
+----
+
+
+----
+
+Date: 06/08/2019
+Name: Etihad Stadium
+City: Manchester
+Country: United Kingdom
+
+----
+
+
+----
+
+Date: 06/18/2019
+Name: Suvilahti
+City: Helsinki
+Country: Finland
+
+----
+
+
+----
+
+Date: 06/22/2019
+Name: Tauron Arena
+City: Kraków
+Country: Poland
+
+----
+
+
+----
+
+Date: 06/27/2019
+Name: Goffertpark
+City: Nijmegen
+Country: Netherlands
+
+----
+
+
+----
+
+Date: 06/29/2019
+Name: RheinEnergieSTADION
+City: Köln
+Country: Germany
+
+----
+
+
+----
+
+Date: 06/30/2019
+Name: Festivalpark Werchter
+City: Werchter
+Country: Belgium
+
+----
+
+
+----
+
+Date: 07/05/2019
+Name: Stade de France
+City: Paris
+Country: France
+
+----
+
+
+----
+
+Date: 07/06/2019
+Name: Stade de France
+City: Paris
+Country: France
+
+----
+
+
+----
+
+Date: 07/09/2019
+Name: Orange Vélodrome
+City: Marseille
+Country: France
+
+----
+
+
+----
+
+Date: 07/16/2019
+Name: Matmut Atlantique
+City: Bordeaux
+Country: France
+
+----
+
+
+----
+
+Date: 07/26/2019
+Name: Wanda Metropolitano Stadium
+City: Madrid
+Country: Spain
+
+----
+
+Invalid Instruction
+
+----
+
+Artist: At The Drive In
+Song: One Armed Scissor
+Preview: null
+Album: Relationship Of Command
+
+----
+
+
+----
+
+Artist: At The Drive In
+Song: One Armed Scissor
+Album: Relationship Of Command
+Preview: null
+
+----
+
+
+----
+
+Artist: Ace of Base
+Preview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=01823042e11c4096978bbe0e9bba84fc
+Song: The Sign
+
+----
+
+Album: The Sign (US Album) [Remastered]
