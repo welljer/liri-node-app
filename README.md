@@ -33,7 +33,7 @@ with custom request:
 ### Bands in Town
 node liri.js concert-this 'artist/band name here'
 
-![picture of bands in town request](  
+![picture of bands in town request](https://github.com/welljer/liri-node-app/blob/master/media/bandsInTown.JPG)  
 
 
 ### OMDB
