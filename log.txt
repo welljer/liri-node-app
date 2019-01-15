@@ -507,3 +507,53 @@ Song: The Sign
 ----
 
 Album: The Sign (US Album) [Remastered]
+
+----
+
+Date: 05/03/2019
+City: Morrison
+Country: CO
+Country: United States
+
+----
+
+
+----
+
+Date: 05/04/2019
+Name: Red Rocks Amphitheatre
+Name: Red Rocks Amphitheatre
+City: Morrison
+Country: CO
+Country: United States
+
+----
+
+
+----
+
+Title: Mr. Nobody
+IMDB Rating: 7.9
+Release Year: 2009
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Rotten Tomatoes Rating: 67%
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+----
+
+
+----
+
+Title: Secondhand Lions
+Release Year: 2003
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Rotten Tomatoes Rating: 59%
+Plot: A coming-of-age story about a shy, young boy sent by his irresponsible mother to spend the summer with his wealthy, eccentric uncles in Texas.
+Actors: Michael Caine, Robert Duvall, Haley Joel Osment, Kyra Sedgwick
+
+----
+
