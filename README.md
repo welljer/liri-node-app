@@ -4,22 +4,23 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
-## Installation
+## Technology and packages used
 
-The following NPMs were used to make this project possible:
+node.js
+fs.js
+
 node-spotify-api
 npm request
 npm moment
 npm dotenv
 
-The following APIs were used alongside the installed NPMs:
 OMDB
 Bands in Town
 
-## Usage
+## How it works
 
 ### Spotify
-node liri.js spotify-this-song 'song name here'
+node liri.js spotify-this-song "song name here" to return song information from Spotify. If no song is entered, a hard coded default song will return (The Sign by Ace of Base).
 
 default:
 
@@ -31,13 +32,13 @@ with custom request:
 
 
 ### Bands in Town
-node liri.js concert-this 'artist/band name here'
+node liri.js concert-this "artist/band name here" to return concert information from Bandsintown.
 
 ![picture of bands in town request](https://github.com/welljer/liri-node-app/blob/master/media/bandsInTown.JPG)  
 
 
 ### OMDB
-node liri.js movie-this 'movie name here'
+node liri.js movie-this "movie name here" to return movie information from OMDb. If no movie is entered, a hard coded default movie will return (Mr. Nobody).
 
 default:
 
@@ -45,5 +46,8 @@ default:
 
 with custom request:
 
-![picture of OMDB call with custom request](https://github.com/welljer/liri-node-app/blob/master/media/spotifyRequest.JPG)
+![picture of OMDB call with custom request](https://github.com/welljer/liri-node-app/blob/master/media/omdbCustom.JPG)
+
+### Information Storage 
+Request are stored to log.txt file
 
