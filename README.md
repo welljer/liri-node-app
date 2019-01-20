@@ -6,13 +6,13 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
 ## Technology and packages used
 
-node.js
-fs.js
+node.js/
+fs.js/
 
-node-spotify-api
-npm request
-npm moment
-npm dotenv
+node-spotify-api/
+npm request/
+npm moment/
+npm dotenv/
 
 OMDB
 Bands in Town
