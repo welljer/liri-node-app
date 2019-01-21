@@ -557,3 +557,1673 @@ Actors: Michael Caine, Robert Duvall, Haley Joel Osment, Kyra Sedgwick
 
 ----
 
+
+----
+
+Date: 01/30/2019
+Name: George's Majestic Lounge
+City: Fayetteville
+Country: United States
+Country: AR
+
+----
+
+
+----
+
+Date: 01/31/2019
+Name: Deep Ellum Art Co.
+City: Dallas
+Country: TX
+Country: United States
+
+----
+
+
+----
+
+Date: 02/01/2019
+Name: Last Concert Cafe
+City: Houston
+Country: TX
+Country: United States
+
+----
+
+
+----
+
+Date: 02/02/2019
+Name: Antones Austin Texas
+City: Austin
+Country: TX
+Country: United States
+
+----
+
+Date: 02/04/2019
+
+----
+
+Name: recordBar
+City: Kansas City
+Country: MO
+Country: United States
+
+----
+
+
+----
+
+Date: 02/06/2019
+Name: Gabe's
+City: Iowa City
+Country: IA
+Country: United States
+
+----
+
+
+----
+
+Date: 02/07/2019
+Name: Majestic Theatre
+City: Madison
+Country: WI
+Country: United States
+
+----
+
+
+----
+
+Date: 02/08/2019
+Name: Concord Music Hall
+City: Chicago
+Country: IL
+Country: United States
+
+----
+
+
+----
+
+Date: 02/09/2019
+Name: Delmar Hall
+City: St. Louis
+Country: MO
+Country: United States
+
+----
+
+
+----
+
+Date: 02/10/2019
+Name: Gravely Brewing Co
+City: Louisville
+Country: KY
+Country: United States
+
+----
+
+Date: 03/01/2019
+Name: Troubadour
+
+----
+
+City: Los Angeles
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/02/2019
+Name: Brooklyn Bowl
+City: Las Vegas
+Country: NV
+Country: United States
+
+----
+
+
+----
+
+Date: 03/03/2019
+Name: M3F Fest
+City: Phoenix
+Country: AZ
+Country: United States
+
+----
+
+
+----
+
+Date: 03/05/2019
+Name: Belly Up
+City: San Diego
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/06/2019
+Name: SLO Brew
+City: San Luis Obispo
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/07/2019
+Name: The Fillmore
+City: San Francisco
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/08/2019
+Name: Catalyst 
+City: Santa Cruz
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/09/2019
+Name: Crystal Bay Club Casino
+City: Crystal Bay
+Country: NV
+Country: United States
+
+----
+
+
+----
+
+Date: 03/12/2019
+Name: Humboldt Brews
+City: Arcata
+Country: CA
+Country: United States
+
+----
+
+Date: 03/13/2019
+
+----
+
+Name: Domino Room
+City: Bend
+Country: OR
+Country: United States
+
+----
+
+
+----
+
+Date: 03/14/2019
+Name: Wonder Ballroom
+City: Portland
+Country: OR
+Country: United States
+
+----
+
+
+----
+
+Date: 03/15/2019
+Name: HiFi Music Hall
+City: Eugene
+Country: OR
+Country: United States
+
+----
+
+
+----
+
+Date: 03/16/2019
+Name: Neumos
+City: Seattle
+Country: WA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/17/2019
+Name: Wild Buffalo
+City: Bellingham
+Country: WA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/20/2019
+Name: Top Hat Lounge
+City: Missoula
+Country: MT
+Country: United States
+
+----
+
+
+----
+
+Date: 03/21/2019
+Name: Rialto Theatre
+City: Bozeman
+Country: MT
+Country: United States
+
+----
+
+
+----
+
+Date: 03/22/2019
+Name: Pink Garter Theatre
+City: Jackson
+Country: WY
+Country: United States
+
+----
+
+
+----
+
+Date: 03/23/2019
+Name: The Commonwealth Room
+City: Salt Lake City
+Country: UT
+Country: United States
+
+----
+
+
+----
+
+Date: 03/28/2019
+Name: Paramount Theatre
+City: Rutland
+Country: VT
+Country: United States
+
+----
+
+
+----
+
+Date: 03/29/2019
+Name: Paramount Theatre
+City: Rutland
+Country: VT
+Country: United States
+
+----
+
+
+----
+
+Date: 04/24/2019
+Name: Blue Note
+City: Columbia
+Country: MO
+Country: United States
+
+----
+
+
+----
+
+Date: 04/25/2019
+Name: Canopy Club
+City: Urbana
+Country: IL
+Country: United States
+
+----
+
+
+----
+
+Date: 04/26/2019
+Name: Turner Hall Ballroom
+City: Milwaukee
+Country: WI
+Country: United States
+
+----
+
+
+----
+
+Date: 04/27/2019
+Name: Varsity Theater
+City: Minneapolis
+Country: MN
+Country: United States
+
+----
+
+
+----
+
+Date: 04/28/2019
+Name: Slowdown
+City: Omaha
+Country: NE
+Country: United States
+
+----
+
+
+----
+
+Date: 05/02/2019
+Name: Red Rocks Amphitheatre
+City: Morrison
+Country: Colorado
+Country: United States
+
+----
+
+
+----
+
+Date: 06/29/2019
+Name: Electric Forest Festival
+City: Rothbury
+Country: MI
+Country: United States
+
+----
+
+
+----
+
+Date: 07/26/2019
+Name: Tumble Down Festival
+City: Burlington
+Country: VT
+Country: United States
+
+----
+
+
+----
+
+Date: 07/27/2019
+Name: Tumble Down Festival
+City: Burlington
+Country: VT
+Country: United States
+
+----
+
+
+----
+
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+----
+
+
+----
+
+Date: 01/30/2019
+Name: George's Majestic Lounge
+City: Fayetteville
+Country: United States
+Country: AR
+
+----
+
+
+----
+
+Date: 01/31/2019
+Name: Deep Ellum Art Co.
+Country: TX
+City: Dallas
+Country: United States
+
+----
+
+
+----
+
+Date: 02/01/2019
+Name: Last Concert Cafe
+City: Houston
+Country: TX
+Country: United States
+
+----
+
+
+----
+
+Date: 02/02/2019
+Name: Antones Austin Texas
+City: Austin
+Country: TX
+Country: United States
+
+----
+
+
+----
+
+Date: 02/04/2019
+Name: recordBar
+City: Kansas City
+Country: MO
+Country: United States
+
+----
+
+
+----
+
+Date: 02/06/2019
+Name: Gabe's
+City: Iowa City
+Country: IA
+Country: United States
+
+----
+
+
+----
+
+Date: 02/07/2019
+Name: Majestic Theatre
+Country: WI
+City: Madison
+
+----
+
+Country: United States
+Date: 02/08/2019
+Name: Concord Music Hall
+
+----
+
+City: Chicago
+Country: IL
+Country: United States
+
+----
+
+
+----
+
+Date: 02/09/2019
+Name: Delmar Hall
+City: St. Louis
+Country: MO
+Country: United States
+
+----
+
+
+----
+
+Date: 02/10/2019
+Name: Gravely Brewing Co
+City: Louisville
+Country: KY
+Country: United States
+
+----
+
+
+----
+
+Date: 03/01/2019
+Name: Troubadour
+City: Los Angeles
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/02/2019
+Name: Brooklyn Bowl
+City: Las Vegas
+Country: NV
+Country: United States
+
+----
+
+
+----
+
+Date: 03/03/2019
+Name: M3F Fest
+City: Phoenix
+Country: AZ
+Country: United States
+
+----
+
+
+----
+
+Date: 03/05/2019
+Name: Belly Up
+City: San Diego
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/06/2019
+Name: SLO Brew
+City: San Luis Obispo
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/07/2019
+Name: The Fillmore
+City: San Francisco
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/08/2019
+Name: Catalyst 
+City: Santa Cruz
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/09/2019
+Name: Crystal Bay Club Casino
+City: Crystal Bay
+Country: NV
+Country: United States
+Name: Humboldt Brews
+Date: 03/12/2019
+City: Arcata
+
+----
+
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/13/2019
+Name: Domino Room
+City: Bend
+Country: OR
+Country: United States
+
+----
+
+
+----
+
+
+----
+
+Date: 03/14/2019
+Name: Wonder Ballroom
+City: Portland
+Country: OR
+Country: United States
+
+----
+
+
+----
+
+Name: HiFi Music Hall
+Date: 03/15/2019
+City: Eugene
+Country: OR
+Country: United States
+
+----
+
+
+----
+
+Date: 03/16/2019
+Name: Neumos
+City: Seattle
+Country: WA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/17/2019
+Name: Wild Buffalo
+City: Bellingham
+Country: WA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/20/2019
+Name: Top Hat Lounge
+Country: MT
+Country: United States
+
+----
+
+
+----
+
+City: Missoula
+Name: Rialto Theatre
+City: Bozeman
+Date: 03/21/2019
+Country: MT
+Country: United States
+
+----
+
+
+----
+
+Date: 03/22/2019
+Name: Pink Garter Theatre
+City: Jackson
+Country: United States
+Country: WY
+
+----
+
+Date: 03/23/2019
+
+----
+
+Name: The Commonwealth Room
+Country: UT
+City: Salt Lake City
+Country: United States
+
+----
+
+
+----
+
+Date: 03/28/2019
+Name: Paramount Theatre
+City: Rutland
+Country: VT
+Country: United States
+
+----
+
+
+----
+
+Date: 03/29/2019
+Name: Paramount Theatre
+City: Rutland
+Country: VT
+Country: United States
+
+----
+
+
+----
+
+Date: 04/24/2019
+Name: Blue Note
+City: Columbia
+Country: MO
+Country: United States
+
+----
+
+
+----
+
+Date: 04/25/2019
+Name: Canopy Club
+City: Urbana
+Country: IL
+Country: United States
+
+----
+
+
+----
+
+Date: 04/26/2019
+Name: Turner Hall Ballroom
+Country: WI
+City: Milwaukee
+Country: United States
+
+----
+
+
+----
+
+Date: 04/27/2019
+Name: Varsity Theater
+City: Minneapolis
+Country: MN
+Country: United States
+
+----
+
+
+----
+
+Date: 04/28/2019
+Name: Slowdown
+City: Omaha
+Country: NE
+Country: United States
+
+----
+
+
+----
+
+Date: 05/02/2019
+Name: Red Rocks Amphitheatre
+Country: Colorado
+City: Morrison
+Country: United States
+
+----
+
+
+----
+
+Date: 06/29/2019
+Name: Electric Forest Festival
+City: Rothbury
+Country: MI
+Country: United States
+
+----
+
+
+----
+
+Date: 07/26/2019
+Name: Tumble Down Festival
+City: Burlington
+Country: VT
+Country: United States
+
+----
+
+
+----
+
+Date: 07/27/2019
+Name: Tumble Down Festival
+City: Burlington
+Country: VT
+Country: United States
+
+----
+
+
+----
+
+Release Year: 2004
+Title: The Notebook
+Rotten Tomatoes Rating: 53%
+IMDB Rating: 7.9
+Country: USA
+Plot: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.
+Language: English
+Actors: Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner
+
+----
+
+
+----
+
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+
+----
+
+Artist: London On Da Track
+Preview: https://p.scdn.co/mp3-preview/33282991ec3d6f4a98e4bf2943decdcc97a8d313?cid=01823042e11c4096978bbe0e9bba84fc
+Song: No Flag
+Album: No Flag
+
+----
+
+
+----
+
+Date: 01/30/2019
+Name: George's Majestic Lounge
+City: Fayetteville
+Country: United States
+
+----
+
+
+----
+
+Country: AR
+Date: 01/31/2019
+Name: Deep Ellum Art Co.
+City: Dallas
+Country: TX
+Country: United States
+
+----
+
+
+----
+
+Date: 02/01/2019
+Name: Last Concert Cafe
+City: Houston
+Country: TX
+Country: United States
+
+----
+
+
+----
+
+Date: 02/02/2019
+Name: Antones Austin Texas
+Country: TX
+Country: United States
+
+----
+
+City: Austin
+
+----
+
+Date: 02/04/2019
+Name: recordBar
+City: Kansas City
+Country: MO
+Country: United States
+
+----
+
+
+----
+
+Date: 02/06/2019
+Name: Gabe's
+City: Iowa City
+Country: IA
+Country: United States
+
+----
+
+Name: Majestic Theatre
+Date: 02/07/2019
+
+----
+
+City: Madison
+Country: United States
+Country: WI
+
+----
+
+
+----
+
+Date: 02/08/2019
+Name: Concord Music Hall
+City: Chicago
+Country: IL
+Country: United States
+
+----
+
+
+----
+
+Date: 02/09/2019
+Name: Delmar Hall
+City: St. Louis
+Country: United States
+
+----
+
+Country: MO
+Date: 02/10/2019
+
+----
+
+Name: Gravely Brewing Co
+Country: KY
+Country: United States
+
+----
+
+Date: 03/01/2019
+
+----
+
+Name: Troubadour
+City: Louisville
+City: Los Angeles
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/02/2019
+Name: Brooklyn Bowl
+City: Las Vegas
+Country: NV
+Country: United States
+
+----
+
+
+----
+
+Date: 03/03/2019
+Name: M3F Fest
+City: Phoenix
+Country: AZ
+
+----
+
+
+----
+
+Country: United States
+City: San Diego
+Date: 03/05/2019
+Name: Belly Up
+Country: United States
+Country: CA
+
+----
+
+
+----
+
+Date: 03/06/2019
+Name: SLO Brew
+City: San Luis Obispo
+Country: United States
+
+----
+
+
+----
+
+Date: 03/07/2019
+Name: The Fillmore
+City: San Francisco
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Country: CA
+Date: 03/08/2019
+Name: Catalyst 
+City: Santa Cruz
+Country: CA
+Country: United States
+
+----
+
+Date: 03/09/2019
+
+----
+
+Name: Crystal Bay Club Casino
+City: Crystal Bay
+Country: United States
+Country: NV
+
+----
+
+Date: 03/12/2019
+
+----
+
+Name: Humboldt Brews
+City: Arcata
+Country: CA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/13/2019
+Name: Domino Room
+City: Bend
+Country: OR
+Country: United States
+
+----
+
+
+----
+
+Date: 03/14/2019
+Name: Wonder Ballroom
+City: Portland
+Country: OR
+Country: United States
+
+----
+
+
+----
+
+Date: 03/15/2019
+Name: HiFi Music Hall
+City: Eugene
+Country: OR
+Country: United States
+
+----
+
+
+----
+
+Date: 03/16/2019
+Name: Neumos
+City: Seattle
+Country: WA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/17/2019
+Name: Wild Buffalo
+City: Bellingham
+Country: WA
+Country: United States
+
+----
+
+
+----
+
+Date: 03/20/2019
+Name: Top Hat Lounge
+City: Missoula
+Country: MT
+Country: United States
+
+----
+
+
+----
+
+Date: 03/21/2019
+Name: Rialto Theatre
+City: Bozeman
+Country: MT
+Country: United States
+
+----
+
+Date: 03/22/2019
+
+----
+
+Name: Pink Garter Theatre
+City: Jackson
+Country: WY
+Country: United States
+
+----
+
+
+----
+
+Date: 03/23/2019
+Name: The Commonwealth Room
+City: Salt Lake City
+Country: UT
+Country: United States
+
+----
+
+
+----
+
+Date: 03/28/2019
+Name: Paramount Theatre
+City: Rutland
+Country: VT
+Country: United States
+
+----
+
+
+----
+
+Date: 03/29/2019
+Name: Paramount Theatre
+City: Rutland
+Country: VT
+Country: United States
+
+----
+
+
+----
+
+Date: 04/24/2019
+Name: Blue Note
+City: Columbia
+Country: MO
+Country: United States
+
+----
+
+
+----
+
+Date: 04/25/2019
+Name: Canopy Club
+City: Urbana
+Country: IL
+Country: United States
+
+----
+
+
+----
+
+Date: 04/26/2019
+Name: Turner Hall Ballroom
+City: Milwaukee
+Country: WI
+Country: United States
+
+----
+
+
+----
+
+Date: 04/27/2019
+Name: Varsity Theater
+City: Minneapolis
+Country: MN
+Country: United States
+
+----
+
+
+----
+
+Date: 04/28/2019
+Name: Slowdown
+City: Omaha
+Country: NE
+Country: United States
+
+----
+
+Date: 05/02/2019
+
+----
+
+Name: Red Rocks Amphitheatre
+City: Morrison
+Country: Colorado
+Country: United States
+
+----
+
+
+----
+
+Date: 06/29/2019
+Name: Electric Forest Festival
+City: Rothbury
+Country: MI
+Country: United States
+
+----
+
+
+----
+
+Date: 07/26/2019
+Name: Tumble Down Festival
+City: Burlington
+Country: VT
+Country: United States
+
+----
+
+
+----
+
+Date: 07/27/2019
+Name: Tumble Down Festival
+City: Burlington
+Country: VT
+Country: United States
+
+----
+
+
+----
+
+Date: 01/20/2019
+Name: Sheridan Opera House
+City: Telluride
+Country: CO
+Country: United States
+
+----
+
+
+----
+
+Date: 01/24/2019
+Name: Aggie Theatre
+Country: United States
+Country: CO
+
+----
+
+
+----
+
+City: Fort Collins
+Date: 01/25/2019
+Name: Old Town Pub
+City: Steamboat Springs
+Country: CO
+Country: United States
+
+----
+
+
+----
+
+Date: 01/26/2019
+Name: Old Town Pub
+City: Steamboat Springs
+Country: CO
+Country: United States
+
+----
+
+
+----
+
+Date: 01/30/2019
+Name: Belly Up Aspen
+Country: United States
+Country: CO
+
+----
+
+Date: 01/31/2019
+Name: Mesa Theater
+City: Grand Junction
+
+----
+
+Country: CO
+Country: United States
+City: Aspen
+
+----
+
+
+----
+
+Date: 02/01/2019
+Name: 10 Mile Music Hall
+City: Frisco
+Country: CO
+Country: United States
+
+----
+
+
+----
+
+Date: 02/02/2019
+Name: 10 Mile Music Hall 
+Country: CO
+Country: United States
+
+----
+
+
+----
+
+Date: 02/14/2019
+Name: Workplay Theatre
+City: Frisco
+City: Birmingham
+Country: AL
+Country: United States
+
+----
+
+Date: 02/15/2019
+
+----
+
+Name: Vinyl Music Hall
+City: Pensacola
+Country: FL
+Country: United States
+
+----
+
+Date: 02/16/2019
+
+----
+
+Name: Funk Fest Punta Gorda
+Country: United States
+Country: FL
+
+----
+
+City: Punta Gorda
+
+----
+
+Date: 03/15/2019
+City: Covington
+Country: KY
+Country: United States
+Name: Madison Theater
+
+----
+
+
+----
+
+Date: 03/16/2019
+Name: Madison Theater
+City: Covington
+Country: KY
+Country: United States
+
+----
+
+
+----
+
+Date: 03/22/2019
+Name: Mardi Gras World
+City: New Orleans
+Country: LA
+Country: United States
+
+----
+
+Date: 03/23/2019
+Name: Buku Music & Arts Festival 
+
+----
+
+Country: LA
+Country: United States
+City: New Orleans
+Date: 04/10/2019
+
+----
+
+
+----
+
+Name: Elevation 27
+City: Virginia Beach
+Country: United States
+
+----
+
+
+----
+
+Date: 04/11/2019
+Country: VA
+Country: PA
+City: Harrisburg
+Country: United States
+
+----
+
+
+----
+
+Date: 04/12/2019
+Name: Brooklyn Bowl
+City: Brooklyn
+Country: NY
+Country: United States
+
+----
+
+
+----
+
+Date: 04/13/2019
+Name: Brooklyn Bowl
+City: Brooklyn
+Country: NY
+Country: United States
+
+----
+
+Date: 04/14/2019
+
+----
+
+Name: The National
+City: Richmond
+Country: VA
+Country: United States
+
+----
+
+
+----
+
+Date: 04/17/2019
+Name: Westcott Theater
+City: Syracuse
+Country: NY
+Country: United States
+
+----
+
+
+----
+
+Name: Club XL
+Date: 04/18/2019
+Name: The Haunt
+City: Ithaca
+Country: United States
+
+----
+
+
+----
+
+Date: 04/19/2019
+Name: Town Ballroom
+City: Buffalo
+Country: NY
+Country: United States
+Country: NY
+Date: 04/20/2019
+Name: Theatre of The Living Arts
+City: Philadelphia
+Country: PA
+Country: United States
+
+----
+
+
+----
+
+Date: 04/24/2019
+Name: Gateway City Arts
+City: Holyoke
+
+----
+
+Country: MA
+Country: United States
+
+----
+
+
+----
+
+Date: 04/25/2019
+Name: The Sinclair
+Country: MA
+Country: United States
+
+----
+
+
+----
+
+Date: 04/26/2019
+Name: Asbury Lanes
+City: Asbury Park
+Country: United States
+
+----
+
+City: Cambridge
+
+----
+
+
+----
+
+Date: 04/27/2019
+Name: Baltimore Soundstage
+City: Baltimore
+Country: MD
+Country: United States
+
+----
+
+
+----
+
+Date: 05/11/2019
+Name: Red Rocks Amphitheatre
+City: Morrison
+Country: NJ
+Country: CO
+Country: United States
+
+----
+
+
+----
+
+Date: 05/25/2019
+Name: Summer Camp Music Festival
+City: Chillicothe
+Country: IL
+Country: United States
+
+----
+
+
+----
+
+Date: 08/10/2019
+Name: The Caverns
+Country: TN
+
+----
+
+City: Pelham
+Country: United States
