@@ -50,4 +50,4 @@ with custom request:
 
 ### Information Storage 
 Request are stored to log.txt file
-![picture of log.txt file]()
+![picture of log.txt file](https://github.com/welljer/liri-node-app/blob/master/media/text.JPG)
