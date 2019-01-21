@@ -6,13 +6,13 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
 ## Technology and packages used
 
-* [node.js/](https://nodejs.org/en/docs/)
-* [fs.js/](https://github.com/nodejs/node/blob/master/doc/api/fs.md)
+* [node.js](https://nodejs.org/en/docs/)
+* [fs.js](https://github.com/nodejs/node/blob/master/doc/api/fs.md)
 
-* [node-spotify-api/](https://developer.spotify.com/documentation/web-api/quick-start/)
-* [npm request/](https://github.com/request/request)
-* [npm moment/](https://github.com/moment/moment)
-* [npm dotenv/](https://www.npmjs.com/package/dotenv-extended)
+* [node-spotify-api](https://developer.spotify.com/documentation/web-api/quick-start/)
+* [npm request](https://github.com/request/request)
+* [npm moment](https://github.com/moment/moment)
+* [npm dotenv](https://www.npmjs.com/package/dotenv-extended)
 
 * [OMDB](https://github.com/Omertron/api-omdb)
 * [Bands in Town](http://www.artists.bandsintown.com/bandsintown-api)
@@ -50,4 +50,4 @@ with custom request:
 
 ### Information Storage 
 Request are stored to log.txt file
-
+![picture of log.txt file]()
